@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -128,8 +128,8 @@ devDependencies:
     specifier: ^0.31.0
     version: 0.31.0(vitest@0.31.0)
   '@vitest/web-worker':
-    specifier: ^0.30.1
-    version: 0.30.1(vitest@0.31.0)
+    specifier: ^0.33.0
+    version: 0.33.0(vitest@0.31.0)
   '@vue-macros/volar':
     specifier: ^0.12.3
     version: 0.12.3(@vue-macros/reactivity-transform@0.3.16)(rollup@2.77.3)(typescript@5.0.4)(vue-tsc@1.8.5)(vue@3.3.8)
@@ -4585,8 +4585,8 @@ packages:
       pretty-format: 27.5.1
     dev: true
 
-  /@vitest/web-worker@0.30.1(vitest@0.31.0):
-    resolution: {integrity: sha512-fHe81VYe/Ch6VrM83UUB874ZZ2qzbDAee1MrGwPd3KN6btGfBdeCSu8AO+lvxVxUVQFw7dNrMRnIRkYYtf3YUg==}
+  /@vitest/web-worker@0.33.0(vitest@0.31.0):
+    resolution: {integrity: sha512-sStiwW6AuA2zV5O/nFJ0Xn0j+eepNomOX2f7opHXkGQg1Lo2VxTfEkY0y0lyby+GIFwdoMTvVsInKseFrE2dJw==}
     peerDependencies:
       vitest: '*'
     dependencies:
