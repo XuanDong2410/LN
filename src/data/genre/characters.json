@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "Điềm Đạm"
+  },
+  {
+    "id": 1,
+    "name": "Nhiệt Huyết"
+  },
+  { "id": 2, "name": "Vô Sỉ" },
+  { "id": 3, "name": "Thiết Huyết" },
+  { "id": 4, "name": "Nhẹ Nhàng" },
+  { "id": 5, "name": "Cơ Trí" },
+  { "id": 6, "name": "Lãnh Khốc" },
+  {
+    "id": 7,
+    "name": "Kiêu Ngạo"
+  },
+  {
+    "id": 8,
+    "name": "Ngu Ngốc"
+  },
+  {
+    "id": 9,
+    "name": "Giảo Hoạt"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "Action",
+    "describe": "Thể loại hành động, thường có nội dung về đánh nhau, bạo lực, hỗn loạn, với diễn biến nhanh."
+  },
+  {
+    "id": 1,
+    "name": "Adventure",
+    "describe": "Thể loại phiêu lưu, mạo hiểm, thường là hành trình của các nhân vật."
+  },
+  {
+    "id": 2,
+    "name": "Comedy",
+    "describe": "Thể loại có các tình tiết gây cười, các xung đột nhẹ nhàng nhưng tạo được tiếng cười nơi độc giả."
+  },
+  {
+    "id": 3,
+    "name": "Drama",
+    "describe": "Thể loại kịch tính, mang đến cho người xem những cảm xúc khác nhau: buồn bã, căng thẳng thậm chí là bi phẫn."
+  },
+  {
+    "id": 4,
+    "name": "Fantasy",
+    "describe": "Thể loại xuất phát từ trí tưởng tượng phong phú, từ pháp thuật đến thế giới trong mơ thậm chí là những câu chuyện thần tiên."
+  },
+  {
+    "id": 5,
+    "name": "History",
+    "describe": "Thể loại hình ảnh, thường có nội dung về thế giới."
+  },
+  {
+    "id": 6,
+    "name": "Harem",
+    "describe": "Thể loại truyện tình cảm, lãng mạn mà trong đó, nhiều nhân vật thích một nhân vật chính"
+  }
+]

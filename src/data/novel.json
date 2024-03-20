@@ -1,0 +1,694 @@
+[
+  {
+    "name": "Kumo Desu Ga Nani Ka",
+    "author": "Baba Okina",
+    "img": "https://3.bp.blogspot.com/-coc62nTZN9M/WO2v-JFMCuI/AAAAAAAAKBE/Kb8JLmHVElw/w215/series_259.jpg",
+    "chap": "Tập 1",
+    "genres": ["Action", "Comedy", "Drama", "Harem"],
+    "status": "Hoàn thành",
+    "describe": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng...Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ. Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "view": 12542,
+    "sub": 3254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Baba Okina"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/gia-toc-tu-tien-bat-dau-tro-thanh-tran-toc-phap-khi/300.jpg?1686753402",
+    "name": "Huyền Giám Tiên Tộc",
+    "chap": "Chương 681: Liễu Không",
+    "author": "Qúy Việt Nhân",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Nghi"],
+    "view": 12542,
+    "sub": 1254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Huyền Giám Tiên Tộc"
+      }
+    },
+    "describe": "Giữa thiên địa, có vạn tướng. Mà ta Lý Lạc, cuối cùng rồi sẽ trở thành Vạn Tướng Chi Vương này."
+  },
+  {
+    "img": "https://static.cdnno.com/poster/quy-di-the-gioi-ta-lay-nhuc-than-tran-van-vat/300.jpg?1699346848",
+    "name": "Quỷ Dị Thế Giới, Ta Lấy Nhục Thân Trấn Vạn Vật",
+    "chap": "Chương 226: Kết thúc (2)",
+    "author": "Tứ Khỏa Du Mạch Thái",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Huyễn", "Lãnh Khốc", "Cao Võ Thế Giới"],
+    "view": 12542,
+    "sub": 399,
+    "describe": "Quỷ dị hoành hành, yêu ma loạn thế, thế nhân khổ không thể tả.Tham quan ô lại, xem mạng người như cỏ rác, thế gia đại tộc, làm hại một phương.Trần Mặc người mang Thuế Phàm châu giáng lâm này phương thế giới, có thể không ngừng thoát thai hoán cốt, vô hạn tăng lên nhục thân.Vì cầu tại phương thế giới này tự vệ, hắn không thể không đi đến một đầu lấy nhục thân trấn áp quỷ dị bình định thế gian con đường.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/tan-the-ta-co-the-trong-thay-thanh-mau-giet-quai-roi-bao/300.jpg?1706957067",
+    "name": "Tận Thế: Ta Có Thể Trông Thấy Thanh Máu, Giết Quái Rơi Bảo",
+    "chap": "Chương 438: Hắc vụ Zombie",
+    "author": "Sơn Quỷ Chấp Bút",
+    "status": "Đang tiến hành",
+    "read": "553.2K",
+    "genres": ["Khoa Huyễn","Lãnh Khốc","Mạt Thế Nguy Cơ","Hệ Thống","Góc Nhìn Nam"],
+    "view": 55423,
+    "sub": 931,
+    "describe": "Ngày mùng 4 tháng 4.Tận thế giáng lâm, sơn hà vỡ nát, nhân gian hóa thành Luyện Ngục.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "name": "Kumo Desu Ga Nani Ka",
+    "author": "Baba Okina",
+    "img": "https://3.bp.blogspot.com/-coc62nTZN9M/WO2v-JFMCuI/AAAAAAAAKBE/Kb8JLmHVElw/w215/series_259.jpg",
+    "chap": "Tập 1",
+    "genres": ["Action", "Comedy", "Drama", "Harem"],
+    "status": "Hoàn thành",
+    "describe": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng...Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ. Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "view": 12542,
+    "sub": 3254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Baba Okina"
+      }
+    }
+  },
+  
+  {
+    "img": "https://static.cdnno.com/poster/quy-di-the-gioi-ta-lay-nhuc-than-tran-van-vat/300.jpg?1699346848",
+    "name": "Quỷ Dị Thế Giới, Ta Lấy Nhục Thân Trấn Vạn Vật",
+    "chap": "Chương 226: Kết thúc (2)",
+    "author": "Tứ Khỏa Du Mạch Thái",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Huyễn", "Lãnh Khốc", "Cao Võ Thế Giới"],
+    "view": 12542,
+    "sub": 399,
+    "describe": "Quỷ dị hoành hành, yêu ma loạn thế, thế nhân khổ không thể tả.Tham quan ô lại, xem mạng người như cỏ rác, thế gia đại tộc, làm hại một phương.Trần Mặc người mang Thuế Phàm châu giáng lâm này phương thế giới, có thể không ngừng thoát thai hoán cốt, vô hạn tăng lên nhục thân.Vì cầu tại phương thế giới này tự vệ, hắn không thể không đi đến một đầu lấy nhục thân trấn áp quỷ dị bình định thế gian con đường.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/tan-the-ta-co-the-trong-thay-thanh-mau-giet-quai-roi-bao/300.jpg?1706957067",
+    "name": "Tận Thế: Ta Có Thể Trông Thấy Thanh Máu, Giết Quái Rơi Bảo",
+    "chap": "Chương 438: Hắc vụ Zombie",
+    "author": "Sơn Quỷ Chấp Bút",
+    "status": "Đang tiến hành",
+    "read": "553.2K",
+    "genres": ["Khoa Huyễn","Lãnh Khốc","Mạt Thế Nguy Cơ","Hệ Thống","Góc Nhìn Nam"],
+    "view": 55423,
+    "sub": 931,
+    "describe": "Ngày mùng 4 tháng 4.Tận thế giáng lâm, sơn hà vỡ nát, nhân gian hóa thành Luyện Ngục.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "name": "Kumo Desu Ga Nani Ka",
+    "author": "Baba Okina",
+    "img": "https://3.bp.blogspot.com/-coc62nTZN9M/WO2v-JFMCuI/AAAAAAAAKBE/Kb8JLmHVElw/w215/series_259.jpg",
+    "chap": "Tập 1",
+    "genres": ["Action", "Comedy", "Drama", "Harem"],
+    "status": "Hoàn thành",
+    "describe": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng...Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ. Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "view": 12542,
+    "sub": 3254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Baba Okina"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/gia-toc-tu-tien-bat-dau-tro-thanh-tran-toc-phap-khi/300.jpg?1686753402",
+    "name": "Huyền Giám Tiên Tộc",
+    "chap": "Chương 681: Liễu Không",
+    "author": "Qúy Việt Nhân",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Nghi"],
+    "view": 12542,
+    "sub": 1254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Huyền Giám Tiên Tộc"
+      }
+    },
+    "describe": "Giữa thiên địa, có vạn tướng. Mà ta Lý Lạc, cuối cùng rồi sẽ trở thành Vạn Tướng Chi Vương này."
+  },
+  {
+    "img": "https://static.cdnno.com/poster/quy-di-the-gioi-ta-lay-nhuc-than-tran-van-vat/300.jpg?1699346848",
+    "name": "Quỷ Dị Thế Giới, Ta Lấy Nhục Thân Trấn Vạn Vật",
+    "chap": "Chương 226: Kết thúc (2)",
+    "author": "Tứ Khỏa Du Mạch Thái",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Huyễn", "Lãnh Khốc", "Cao Võ Thế Giới"],
+    "view": 12542,
+    "sub": 399,
+    "describe": "Quỷ dị hoành hành, yêu ma loạn thế, thế nhân khổ không thể tả.Tham quan ô lại, xem mạng người như cỏ rác, thế gia đại tộc, làm hại một phương.Trần Mặc người mang Thuế Phàm châu giáng lâm này phương thế giới, có thể không ngừng thoát thai hoán cốt, vô hạn tăng lên nhục thân.Vì cầu tại phương thế giới này tự vệ, hắn không thể không đi đến một đầu lấy nhục thân trấn áp quỷ dị bình định thế gian con đường.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/tan-the-ta-co-the-trong-thay-thanh-mau-giet-quai-roi-bao/300.jpg?1706957067",
+    "name": "Tận Thế: Ta Có Thể Trông Thấy Thanh Máu, Giết Quái Rơi Bảo",
+    "chap": "Chương 438: Hắc vụ Zombie",
+    "author": "Sơn Quỷ Chấp Bút",
+    "status": "Đang tiến hành",
+    "read": "553.2K",
+    "genres": ["Khoa Huyễn","Lãnh Khốc","Mạt Thế Nguy Cơ","Hệ Thống","Góc Nhìn Nam"],
+    "view": 55423,
+    "sub": 931,
+    "describe": "Ngày mùng 4 tháng 4.Tận thế giáng lâm, sơn hà vỡ nát, nhân gian hóa thành Luyện Ngục.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "name": "Kumo Desu Ga Nani Ka",
+    "author": "Baba Okina",
+    "img": "https://3.bp.blogspot.com/-coc62nTZN9M/WO2v-JFMCuI/AAAAAAAAKBE/Kb8JLmHVElw/w215/series_259.jpg",
+    "chap": "Tập 1",
+    "genres": ["Action", "Comedy", "Drama", "Harem"],
+    "status": "Hoàn thành",
+    "describe": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng...Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ. Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "view": 12542,
+    "sub": 3254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Baba Okina"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/gia-toc-tu-tien-bat-dau-tro-thanh-tran-toc-phap-khi/300.jpg?1686753402",
+    "name": "Huyền Giám Tiên Tộc",
+    "chap": "Chương 681: Liễu Không",
+    "author": "Qúy Việt Nhân",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Nghi"],
+    "view": 12542,
+    "sub": 1254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Huyền Giám Tiên Tộc"
+      }
+    },
+    "describe": "Giữa thiên địa, có vạn tướng. Mà ta Lý Lạc, cuối cùng rồi sẽ trở thành Vạn Tướng Chi Vương này."
+  },
+  {
+    "img": "https://static.cdnno.com/poster/quy-di-the-gioi-ta-lay-nhuc-than-tran-van-vat/300.jpg?1699346848",
+    "name": "Quỷ Dị Thế Giới, Ta Lấy Nhục Thân Trấn Vạn Vật",
+    "chap": "Chương 226: Kết thúc (2)",
+    "author": "Tứ Khỏa Du Mạch Thái",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Huyễn", "Lãnh Khốc", "Cao Võ Thế Giới"],
+    "view": 12542,
+    "sub": 399,
+    "describe": "Quỷ dị hoành hành, yêu ma loạn thế, thế nhân khổ không thể tả.Tham quan ô lại, xem mạng người như cỏ rác, thế gia đại tộc, làm hại một phương.Trần Mặc người mang Thuế Phàm châu giáng lâm này phương thế giới, có thể không ngừng thoát thai hoán cốt, vô hạn tăng lên nhục thân.Vì cầu tại phương thế giới này tự vệ, hắn không thể không đi đến một đầu lấy nhục thân trấn áp quỷ dị bình định thế gian con đường.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/tan-the-ta-co-the-trong-thay-thanh-mau-giet-quai-roi-bao/300.jpg?1706957067",
+    "name": "Tận Thế: Ta Có Thể Trông Thấy Thanh Máu, Giết Quái Rơi Bảo",
+    "chap": "Chương 438: Hắc vụ Zombie",
+    "author": "Sơn Quỷ Chấp Bút",
+    "status": "Đang tiến hành",
+    "read": "553.2K",
+    "genres": ["Khoa Huyễn","Lãnh Khốc","Mạt Thế Nguy Cơ","Hệ Thống","Góc Nhìn Nam"],
+    "view": 55423,
+    "sub": 931,
+    "describe": "Ngày mùng 4 tháng 4.Tận thế giáng lâm, sơn hà vỡ nát, nhân gian hóa thành Luyện Ngục.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "name": "Kumo Desu Ga Nani Ka",
+    "author": "Baba Okina",
+    "img": "https://3.bp.blogspot.com/-coc62nTZN9M/WO2v-JFMCuI/AAAAAAAAKBE/Kb8JLmHVElw/w215/series_259.jpg",
+    "chap": "Tập 1",
+    "genres": ["Action", "Comedy", "Drama", "Harem"],
+    "status": "Hoàn thành",
+    "describe": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng...Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ. Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "view": 12542,
+    "sub": 3254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Baba Okina"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/gia-toc-tu-tien-bat-dau-tro-thanh-tran-toc-phap-khi/300.jpg?1686753402",
+    "name": "Huyền Giám Tiên Tộc",
+    "chap": "Chương 681: Liễu Không",
+    "author": "Qúy Việt Nhân",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Nghi"],
+    "view": 12542,
+    "sub": 1254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Huyền Giám Tiên Tộc"
+      }
+    },
+    "describe": "Giữa thiên địa, có vạn tướng. Mà ta Lý Lạc, cuối cùng rồi sẽ trở thành Vạn Tướng Chi Vương này."
+  },
+  {
+    "img": "https://static.cdnno.com/poster/quy-di-the-gioi-ta-lay-nhuc-than-tran-van-vat/300.jpg?1699346848",
+    "name": "Quỷ Dị Thế Giới, Ta Lấy Nhục Thân Trấn Vạn Vật",
+    "chap": "Chương 226: Kết thúc (2)",
+    "author": "Tứ Khỏa Du Mạch Thái",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Huyễn", "Lãnh Khốc", "Cao Võ Thế Giới"],
+    "view": 12542,
+    "sub": 399,
+    "describe": "Quỷ dị hoành hành, yêu ma loạn thế, thế nhân khổ không thể tả.Tham quan ô lại, xem mạng người như cỏ rác, thế gia đại tộc, làm hại một phương.Trần Mặc người mang Thuế Phàm châu giáng lâm này phương thế giới, có thể không ngừng thoát thai hoán cốt, vô hạn tăng lên nhục thân.Vì cầu tại phương thế giới này tự vệ, hắn không thể không đi đến một đầu lấy nhục thân trấn áp quỷ dị bình định thế gian con đường.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/tan-the-ta-co-the-trong-thay-thanh-mau-giet-quai-roi-bao/300.jpg?1706957067",
+    "name": "Tận Thế: Ta Có Thể Trông Thấy Thanh Máu, Giết Quái Rơi Bảo",
+    "chap": "Chương 438: Hắc vụ Zombie",
+    "author": "Sơn Quỷ Chấp Bút",
+    "status": "Đang tiến hành",
+    "read": "553.2K",
+    "genres": ["Khoa Huyễn","Lãnh Khốc","Mạt Thế Nguy Cơ","Hệ Thống","Góc Nhìn Nam"],
+    "view": 55423,
+    "sub": 931,
+    "describe": "Ngày mùng 4 tháng 4.Tận thế giáng lâm, sơn hà vỡ nát, nhân gian hóa thành Luyện Ngục.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "name": "Kumo Desu Ga Nani Ka",
+    "author": "Baba Okina",
+    "img": "https://3.bp.blogspot.com/-coc62nTZN9M/WO2v-JFMCuI/AAAAAAAAKBE/Kb8JLmHVElw/w215/series_259.jpg",
+    "chap": "Tập 1",
+    "genres": ["Action", "Comedy", "Drama", "Harem"],
+    "status": "Hoàn thành",
+    "describe": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng...Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ. Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "view": 12542,
+    "sub": 3254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Baba Okina"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/gia-toc-tu-tien-bat-dau-tro-thanh-tran-toc-phap-khi/300.jpg?1686753402",
+    "name": "Huyền Giám Tiên Tộc",
+    "chap": "Chương 681: Liễu Không",
+    "author": "Qúy Việt Nhân",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Nghi"],
+    "view": 12542,
+    "sub": 1254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Huyền Giám Tiên Tộc"
+      }
+    },
+    "describe": "Giữa thiên địa, có vạn tướng. Mà ta Lý Lạc, cuối cùng rồi sẽ trở thành Vạn Tướng Chi Vương này."
+  },
+  {
+    "img": "https://static.cdnno.com/poster/quy-di-the-gioi-ta-lay-nhuc-than-tran-van-vat/300.jpg?1699346848",
+    "name": "Quỷ Dị Thế Giới, Ta Lấy Nhục Thân Trấn Vạn Vật",
+    "chap": "Chương 226: Kết thúc (2)",
+    "author": "Tứ Khỏa Du Mạch Thái",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Huyễn", "Lãnh Khốc", "Cao Võ Thế Giới"],
+    "view": 12542,
+    "sub": 399,
+    "describe": "Quỷ dị hoành hành, yêu ma loạn thế, thế nhân khổ không thể tả.Tham quan ô lại, xem mạng người như cỏ rác, thế gia đại tộc, làm hại một phương.Trần Mặc người mang Thuế Phàm châu giáng lâm này phương thế giới, có thể không ngừng thoát thai hoán cốt, vô hạn tăng lên nhục thân.Vì cầu tại phương thế giới này tự vệ, hắn không thể không đi đến một đầu lấy nhục thân trấn áp quỷ dị bình định thế gian con đường.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/tan-the-ta-co-the-trong-thay-thanh-mau-giet-quai-roi-bao/300.jpg?1706957067",
+    "name": "Tận Thế: Ta Có Thể Trông Thấy Thanh Máu, Giết Quái Rơi Bảo",
+    "chap": "Chương 438: Hắc vụ Zombie",
+    "author": "Sơn Quỷ Chấp Bút",
+    "status": "Đang tiến hành",
+    "read": "553.2K",
+    "genres": ["Khoa Huyễn","Lãnh Khốc","Mạt Thế Nguy Cơ","Hệ Thống","Góc Nhìn Nam"],
+    "view": 55423,
+    "sub": 931,
+    "describe": "Ngày mùng 4 tháng 4.Tận thế giáng lâm, sơn hà vỡ nát, nhân gian hóa thành Luyện Ngục.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "name": "Kumo Desu Ga Nani Ka",
+    "author": "Baba Okina",
+    "img": "https://3.bp.blogspot.com/-coc62nTZN9M/WO2v-JFMCuI/AAAAAAAAKBE/Kb8JLmHVElw/w215/series_259.jpg",
+    "chap": "Tập 1",
+    "genres": ["Action", "Comedy", "Drama", "Harem"],
+    "status": "Hoàn thành",
+    "describe": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng...Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ. Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "view": 12542,
+    "sub": 3254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Baba Okina"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/gia-toc-tu-tien-bat-dau-tro-thanh-tran-toc-phap-khi/300.jpg?1686753402",
+    "name": "Huyền Giám Tiên Tộc",
+    "chap": "Chương 681: Liễu Không",
+    "author": "Qúy Việt Nhân",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Nghi"],
+    "view": 12542,
+    "sub": 1254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Huyền Giám Tiên Tộc"
+      }
+    },
+    "describe": "Giữa thiên địa, có vạn tướng. Mà ta Lý Lạc, cuối cùng rồi sẽ trở thành Vạn Tướng Chi Vương này."
+  },
+  {
+    "img": "https://static.cdnno.com/poster/quy-di-the-gioi-ta-lay-nhuc-than-tran-van-vat/300.jpg?1699346848",
+    "name": "Quỷ Dị Thế Giới, Ta Lấy Nhục Thân Trấn Vạn Vật",
+    "chap": "Chương 226: Kết thúc (2)",
+    "author": "Tứ Khỏa Du Mạch Thái",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Huyễn", "Lãnh Khốc", "Cao Võ Thế Giới"],
+    "view": 12542,
+    "sub": 399,
+    "describe": "Quỷ dị hoành hành, yêu ma loạn thế, thế nhân khổ không thể tả.Tham quan ô lại, xem mạng người như cỏ rác, thế gia đại tộc, làm hại một phương.Trần Mặc người mang Thuế Phàm châu giáng lâm này phương thế giới, có thể không ngừng thoát thai hoán cốt, vô hạn tăng lên nhục thân.Vì cầu tại phương thế giới này tự vệ, hắn không thể không đi đến một đầu lấy nhục thân trấn áp quỷ dị bình định thế gian con đường.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/tan-the-ta-co-the-trong-thay-thanh-mau-giet-quai-roi-bao/300.jpg?1706957067",
+    "name": "Tận Thế: Ta Có Thể Trông Thấy Thanh Máu, Giết Quái Rơi Bảo",
+    "chap": "Chương 438: Hắc vụ Zombie",
+    "author": "Sơn Quỷ Chấp Bút",
+    "status": "Đang tiến hành",
+    "read": "553.2K",
+    "genres": ["Khoa Huyễn","Lãnh Khốc","Mạt Thế Nguy Cơ","Hệ Thống","Góc Nhìn Nam"],
+    "view": 55423,
+    "sub": 931,
+    "describe": "Ngày mùng 4 tháng 4.Tận thế giáng lâm, sơn hà vỡ nát, nhân gian hóa thành Luyện Ngục.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "name": "Kumo Desu Ga Nani Ka",
+    "author": "Baba Okina",
+    "img": "https://3.bp.blogspot.com/-coc62nTZN9M/WO2v-JFMCuI/AAAAAAAAKBE/Kb8JLmHVElw/w215/series_259.jpg",
+    "chap": "Tập 1",
+    "genres": ["Action", "Comedy", "Drama", "Harem"],
+    "status": "Hoàn thành",
+    "describe": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng...Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ. Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "view": 12542,
+    "sub": 3254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Baba Okina"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/gia-toc-tu-tien-bat-dau-tro-thanh-tran-toc-phap-khi/300.jpg?1686753402",
+    "name": "Huyền Giám Tiên Tộc",
+    "chap": "Chương 681: Liễu Không",
+    "author": "Qúy Việt Nhân",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Nghi"],
+    "view": 12542,
+    "sub": 1254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Huyền Giám Tiên Tộc"
+      }
+    },
+    "describe": "Giữa thiên địa, có vạn tướng. Mà ta Lý Lạc, cuối cùng rồi sẽ trở thành Vạn Tướng Chi Vương này."
+  },
+  {
+    "img": "https://static.cdnno.com/poster/quy-di-the-gioi-ta-lay-nhuc-than-tran-van-vat/300.jpg?1699346848",
+    "name": "Quỷ Dị Thế Giới, Ta Lấy Nhục Thân Trấn Vạn Vật",
+    "chap": "Chương 226: Kết thúc (2)",
+    "author": "Tứ Khỏa Du Mạch Thái",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Huyễn", "Lãnh Khốc", "Cao Võ Thế Giới"],
+    "view": 12542,
+    "sub": 399,
+    "describe": "Quỷ dị hoành hành, yêu ma loạn thế, thế nhân khổ không thể tả.Tham quan ô lại, xem mạng người như cỏ rác, thế gia đại tộc, làm hại một phương.Trần Mặc người mang Thuế Phàm châu giáng lâm này phương thế giới, có thể không ngừng thoát thai hoán cốt, vô hạn tăng lên nhục thân.Vì cầu tại phương thế giới này tự vệ, hắn không thể không đi đến một đầu lấy nhục thân trấn áp quỷ dị bình định thế gian con đường.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/tan-the-ta-co-the-trong-thay-thanh-mau-giet-quai-roi-bao/300.jpg?1706957067",
+    "name": "Tận Thế: Ta Có Thể Trông Thấy Thanh Máu, Giết Quái Rơi Bảo",
+    "chap": "Chương 438: Hắc vụ Zombie",
+    "author": "Sơn Quỷ Chấp Bút",
+    "status": "Đang tiến hành",
+    "read": "553.2K",
+    "genres": ["Khoa Huyễn","Lãnh Khốc","Mạt Thế Nguy Cơ","Hệ Thống","Góc Nhìn Nam"],
+    "view": 55423,
+    "sub": 931,
+    "describe": "Ngày mùng 4 tháng 4.Tận thế giáng lâm, sơn hà vỡ nát, nhân gian hóa thành Luyện Ngục.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },{
+    "name": "Kumo Desu Ga Nani Ka",
+    "author": "Baba Okina",
+    "img": "https://3.bp.blogspot.com/-coc62nTZN9M/WO2v-JFMCuI/AAAAAAAAKBE/Kb8JLmHVElw/w215/series_259.jpg",
+    "chap": "Tập 1",
+    "genres": ["Action", "Comedy", "Drama", "Harem"],
+    "status": "Hoàn thành",
+    "describe": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng...Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ. Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "view": 12542,
+    "sub": 3254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Baba Okina"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/gia-toc-tu-tien-bat-dau-tro-thanh-tran-toc-phap-khi/300.jpg?1686753402",
+    "name": "Huyền Giám Tiên Tộc",
+    "chap": "Chương 681: Liễu Không",
+    "author": "Qúy Việt Nhân",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Nghi"],
+    "view": 12542,
+    "sub": 1254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Huyền Giám Tiên Tộc"
+      }
+    },
+    "describe": "Giữa thiên địa, có vạn tướng. Mà ta Lý Lạc, cuối cùng rồi sẽ trở thành Vạn Tướng Chi Vương này."
+  },
+  {
+    "img": "https://static.cdnno.com/poster/quy-di-the-gioi-ta-lay-nhuc-than-tran-van-vat/300.jpg?1699346848",
+    "name": "Quỷ Dị Thế Giới, Ta Lấy Nhục Thân Trấn Vạn Vật",
+    "chap": "Chương 226: Kết thúc (2)",
+    "author": "Tứ Khỏa Du Mạch Thái",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Huyễn", "Lãnh Khốc", "Cao Võ Thế Giới"],
+    "view": 12542,
+    "sub": 399,
+    "describe": "Quỷ dị hoành hành, yêu ma loạn thế, thế nhân khổ không thể tả.Tham quan ô lại, xem mạng người như cỏ rác, thế gia đại tộc, làm hại một phương.Trần Mặc người mang Thuế Phàm châu giáng lâm này phương thế giới, có thể không ngừng thoát thai hoán cốt, vô hạn tăng lên nhục thân.Vì cầu tại phương thế giới này tự vệ, hắn không thể không đi đến một đầu lấy nhục thân trấn áp quỷ dị bình định thế gian con đường.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/tan-the-ta-co-the-trong-thay-thanh-mau-giet-quai-roi-bao/300.jpg?1706957067",
+    "name": "Tận Thế: Ta Có Thể Trông Thấy Thanh Máu, Giết Quái Rơi Bảo",
+    "chap": "Chương 438: Hắc vụ Zombie",
+    "author": "Sơn Quỷ Chấp Bút",
+    "status": "Đang tiến hành",
+    "read": "553.2K",
+    "genres": ["Khoa Huyễn","Lãnh Khốc","Mạt Thế Nguy Cơ","Hệ Thống","Góc Nhìn Nam"],
+    "view": 55423,
+    "sub": 931,
+    "describe": "Ngày mùng 4 tháng 4.Tận thế giáng lâm, sơn hà vỡ nát, nhân gian hóa thành Luyện Ngục.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "name": "Kumo Desu Ga Nani Ka",
+    "author": "Baba Okina",
+    "img": "https://3.bp.blogspot.com/-coc62nTZN9M/WO2v-JFMCuI/AAAAAAAAKBE/Kb8JLmHVElw/w215/series_259.jpg",
+    "chap": "Tập 1",
+    "genres": ["Action", "Comedy", "Drama", "Harem"],
+    "status": "Hoàn thành",
+    "describe": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng...Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ. Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "view": 12542,
+    "sub": 3254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Baba Okina"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/gia-toc-tu-tien-bat-dau-tro-thanh-tran-toc-phap-khi/300.jpg?1686753402",
+    "name": "Huyền Giám Tiên Tộc",
+    "chap": "Chương 681: Liễu Không",
+    "author": "Qúy Việt Nhân",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Nghi"],
+    "view": 12542,
+    "sub": 1254,
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Huyền Giám Tiên Tộc"
+      }
+    },
+    "describe": "Giữa thiên địa, có vạn tướng. Mà ta Lý Lạc, cuối cùng rồi sẽ trở thành Vạn Tướng Chi Vương này."
+  },
+  {
+    "img": "https://static.cdnno.com/poster/quy-di-the-gioi-ta-lay-nhuc-than-tran-van-vat/300.jpg?1699346848",
+    "name": "Quỷ Dị Thế Giới, Ta Lấy Nhục Thân Trấn Vạn Vật",
+    "chap": "Chương 226: Kết thúc (2)",
+    "author": "Tứ Khỏa Du Mạch Thái",
+    "status": "Đang tiến hành",
+    "read": "1.05M",
+    "genres": ["Huyền Huyễn", "Lãnh Khốc", "Cao Võ Thế Giới"],
+    "view": 12542,
+    "sub": 399,
+    "describe": "Quỷ dị hoành hành, yêu ma loạn thế, thế nhân khổ không thể tả.Tham quan ô lại, xem mạng người như cỏ rác, thế gia đại tộc, làm hại một phương.Trần Mặc người mang Thuế Phàm châu giáng lâm này phương thế giới, có thể không ngừng thoát thai hoán cốt, vô hạn tăng lên nhục thân.Vì cầu tại phương thế giới này tự vệ, hắn không thể không đi đến một đầu lấy nhục thân trấn áp quỷ dị bình định thế gian con đường.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  },
+  {
+    "img": "https://static.cdnno.com/poster/tan-the-ta-co-the-trong-thay-thanh-mau-giet-quai-roi-bao/300.jpg?1706957067",
+    "name": "Tận Thế: Ta Có Thể Trông Thấy Thanh Máu, Giết Quái Rơi Bảo",
+    "chap": "Chương 438: Hắc vụ Zombie",
+    "author": "Sơn Quỷ Chấp Bút",
+    "status": "Đang tiến hành",
+    "read": "553.2K",
+    "genres": ["Khoa Huyễn","Lãnh Khốc","Mạt Thế Nguy Cơ","Hệ Thống","Góc Nhìn Nam"],
+    "view": 55423,
+    "sub": 931,
+    "describe": "Ngày mùng 4 tháng 4.Tận thế giáng lâm, sơn hà vỡ nát, nhân gian hóa thành Luyện Ngục.",
+    "route": {
+      "name": "novel",
+      "params": {
+        "novel": "Tứ Khỏa Du Mạch Thái"
+      }
+    }
+  }
+]

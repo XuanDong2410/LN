@@ -32,7 +32,7 @@ export const vitePlugins: [
       importMode: () => "async"
     }
   ],
-  [ReWriteAll, {}],
+  // [ReWriteAll, {}],
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   [RemoveConsole as unknown as any, {}],
   [

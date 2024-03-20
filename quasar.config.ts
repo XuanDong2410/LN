@@ -157,7 +157,7 @@ export default configure((/* ctx */ { modeName, prod }) => {
     // https://v2.quasar.dev/quasar-cli-vite/quasar-config-js#framework
     framework: {
       config: {
-        dark: true,
+        dark: false,
         loadingBar: {
           color: "sakura"
         },
