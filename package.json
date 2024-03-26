@@ -111,7 +111,7 @@
     "eslint-plugin-cypress": "^2.15.1",
     "eslint-plugin-vue": "^9.9.0",
     "fake-indexeddb": "^5.0.1",
-    "happy-dom": "^12.10.3",
+    "happy-dom": "^14.3.7",
     "javascript-obfuscator": "^4.0.2",
     "kleur": "^4.1.5",
     "nx": "16.8.1",
